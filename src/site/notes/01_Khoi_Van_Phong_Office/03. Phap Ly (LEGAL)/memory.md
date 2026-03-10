@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-khoi-van-phong-office/03-phap-ly-legal/memory/"}
+{"dg-publish":true,"dg-permalink":"\"phap-ly\"","permalink":"/\"phap-ly\"/","tags":["gardenEntry"]}
 ---
 
 # Memory — Pháp Lý DSS 247 × ERL
