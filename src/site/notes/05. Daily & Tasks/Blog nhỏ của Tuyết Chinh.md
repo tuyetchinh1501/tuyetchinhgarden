@@ -3,7 +3,7 @@
 ---
 
 **Gặp Chinh tại: tuyetchinh.com**
-
+**Facebook: [Tuyết Chinh](https://www.facebook.com/chinhproductivity)**
 **Các bài viết của Chinh:**
 
 1. [[05. Daily & Tasks/Bài viết - Obsidian trạm trung chuyển thông tin miễn phí real-time\|Bài viết - Obsidian trạm trung chuyển thông tin miễn phí real-time]]
