@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-daily-and-tasks/bai-viet-gia-tri-cua-second-brain-trong-thoi-dai-ai/","title":"Bàn giao công việc cho AI - Cú lật tư duy về Second Brain","tags":["#SecondBrain","#Obsidian","#AIproductivity","#ContextEngineering","#Solopreneur"]}
+{"dg-publish":true,"permalink":"/05-daily-and-tasks/bai-viet-gia-tri-cua-second-brain-trong-thoi-dai-ai/","title":"Bàn giao công việc cho AI - Với tư duy về Second Brain","tags":["SecondBrain","Obsidian","AIproductivity","ContextEngineering","Solopreneur"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Vừa rồi, mình vừa cùng "người cộng sự AI" (Antigravity & Claude Code) hì hục quy hoạch lại toàn bộ hệ thống Second Brain trên Obsidian. Một số bạn sẽ hỏi: *"Chinh ơi làm cái này thế nào?"* nhưng hôm nay mình không định viết hướng dẫn "How-to". Điều mình nhận ra sau khi xây xong hệ thống này mang tính "đập vỡ tư duy" nhiều hơn: **Làm cái này để được gì? Giá trị thực sự của Second Brain ở thời đại này nằm ở đâu?**
 
-Trong các doanh nghiệp tính từ trước đến nay, chúng ta hay quan niệm rằng: Bất cứ thứ gì một cá nhân tạo ra (tài liệu, file note, nhật ký công việc) là để lưu lại cho chính mình đọc trộm, báo cáo sếp, hoặc **bàn giao và trao đổi giữa người với người**. Nhưng với sự xuất hiện của AI, tư duy đó không còn đủ nét nữa.
+Trong các doanh nghiệp tính từ trước đến nay, chúng ta hay quan niệm rằng: Bất cứ thứ gì một cá nhân tạo ra (tài liệu, file note, nhật ký công việc) là để lưu lại cho chính mình đọc lại, báo cáo sếp, hoặc **bàn giao và trao đổi giữa người với người**. Nhưng với sự xuất hiện của AI, tư duy đó không còn đủ nét nữa.
 
 Bây giờ, những nội dung mình lưu lại không chỉ dành cho con người đọc, mà là để **"bón ngữ cảnh" (context) cho AI** xử lý công việc nối tiếp một cách thần tốc!
 
