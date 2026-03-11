@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/05-daily-and-tasks/bai-viet-gia-tri-cua-second-brain-trong-thoi-dai-ai/","title":"Bàn giao công việc cho AI - Với tư duy về Second Brain","tags":["SecondBrain","Obsidian","AIproductivity","ContextEngineering","Solopreneur"]}
 ---
 
-
+[[05. Daily & Tasks/Blog nhỏ của Tuyết Chinh\|Blog nhỏ của Tuyết Chinh]]
 # Bài viết: Bàn giao công việc cho AI - Với tư duy về Second Brain
 
 Vừa rồi, mình vừa cùng "người cộng sự AI" (Antigravity & Claude Code) hì hục quy hoạch lại toàn bộ hệ thống Second Brain trên Obsidian. Một số bạn sẽ hỏi: *"Chinh ơi làm cái này thế nào?"* nhưng hôm nay mình không định viết hướng dẫn "How-to". Điều mình nhận ra sau khi xây xong hệ thống này mang tính "đập vỡ tư duy" nhiều hơn: **Làm cái này để được gì? Giá trị thực sự của Second Brain ở thời đại này nằm ở đâu?**

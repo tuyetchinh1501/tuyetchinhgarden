@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-daily-and-tasks/bai-viet-obsidian-tram-trung-chuyen-thong-tin-mien-phi-real-time/","title":"Biến Obsidian thành trạm trung chuyển thông tin — miễn phí và real-time","tags":["SecondBrain","Obsidian","AIproductivity","Teamwork","Workflow"]}
+{"dg-publish":true,"permalink":"/05-daily-and-tasks/bai-viet-obsidian-tram-trung-chuyen-thong-tin-mien-phi-real-time/","title":"Biến Obsidian thành trạm trung chuyển thông tin — miễn phí và real-time","tags":["#SecondBrain","#Obsidian","#AIproductivity","#Teamwork","#Workflow"]}
 ---
 
 
@@ -9,6 +9,7 @@
 > Ngày: 11/03/2026
 > Case thực tế từ dự án Antigravity — Test hệ thống & cộng tác team
 
+[[05. Daily & Tasks/Blog nhỏ của Tuyết Chinh\|Blog nhỏ của Tuyết Chinh]]
 ---
 
 ## Bối cảnh
