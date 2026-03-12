@@ -17,10 +17,10 @@ Trong quá trình làm việc, mình đã áp dụng một nguyên tắc nhỏ: 
 Thử tưởng tượng rộng hơn quy mô doanh nghiệp: Nếu hôm nay bạn ốm nghỉ làm, người khác nhận bàn giao không cần phải đọc ma trận Google Docs rồi tự hỏi *"Ơ đang làm tới đâu rồi nhỉ?"*. Họ chỉ cần quăng chuỗi Log đó cho AI của họ đọc, và AI sẽ tóm tắt: *"Chinh đang làm dở task A, bạn cần tiếp tục viết file B, tôi sẽ hỗ trợ sửa tiếp phần C"*. 
 
 Thực ra cơ chế "ghi log, viết documentation" này là một kiến thức vô cùng cơ bản, hít thở hàng ngày đối với anh em lập trình viên ngành IT. Nhưng nếu bạn là dân Non-tech (marketing, quản lý dự án, vận hành...) giống mình, thì đây quả thật là một "chân trời mới" để tiết kiệm hàng giờ đồng hồ mệt mỏi!
-
+![document_fragmentation_problem_1773240721847.png](/img/user/05.%20Daily%20&%20Tasks/attachments/document_fragmentation_problem_1773240721847.png)
 Thời đại AI không đe dọa người chăm chỉ, nó đe dọa những người để kiến thức nằm rải rác. Khi bạn xây dựng được một hệ thống **Second Brain** chuẩn hóa, bạn không chỉ đang sắp xếp lại đồ đạc trong nhà, mà bạn đang tạo ra một "chuôi cắm" hoàn hảo để bất kỳ AI nào (Claude, ChatGPT, Gemini...) cắm vào là chạy mượt mà ngay tắp lự. 
 
 Còn bạn thì sao? Khối lượng công việc của bạn hiện tại đã "sẵn sàng để AI đọc và làm tiếp chưa?" 😉
-
+![[Video_2026-01-04_211645.mp4]]
 ---
 *Tags: #SecondBrain #Obsidian #AIproductivity #ContextEngineering #Solopreneur*
