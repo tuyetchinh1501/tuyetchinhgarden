@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/05-daily-and-tasks/bai-viet-gia-tri-cua-second-brain-trong-thoi-dai-ai/","title":"Bàn giao công việc cho AI - Với tư duy về Second Brain","tags":["#SecondBrain","#Obsidian","#AIproductivity","#ContextEngineering","#Solopreneur"]}
+{"dg-publish":true,"permalink":"/05-daily-and-tasks/bai-viet-gia-tri-cua-second-brain-trong-thoi-dai-ai/","title":"Bàn giao công việc cho AI - Với tư duy về Second Brain","tags":["SecondBrain","Obsidian","AIproductivity","ContextEngineering","Solopreneur"]}
 ---
 
 [[05. Daily & Tasks/Blog nhỏ của Tuyết Chinh\|Blog nhỏ của Tuyết Chinh]]
