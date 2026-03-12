@@ -23,10 +23,4 @@ Thời đại AI không đe dọa người chăm chỉ, nó đe dọa những ng
 Còn bạn thì sao? Khối lượng công việc của bạn hiện tại đã "sẵn sàng để AI đọc và làm tiếp chưa?" 😉
 
 ---
-
-## Video minh hoạ
-
-<iframe src="https://www.youtube.com/embed/uD0_xZ-tk9I" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
-
----
 *Tags: #SecondBrain #Obsidian #AIproductivity #ContextEngineering #Solopreneur*
