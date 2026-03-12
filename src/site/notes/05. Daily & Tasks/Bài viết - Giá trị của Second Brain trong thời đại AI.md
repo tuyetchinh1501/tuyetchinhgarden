@@ -26,7 +26,7 @@ Còn bạn thì sao? Khối lượng công việc của bạn hiện tại đã 
 
 ## Video minh hoạ
 
-<video src="attachments/Video_2026-01-04_211645.mp4" controls width="100%"></video>
+<iframe src="https://www.youtube.com/embed/uD0_xZ-tk9I" width="100%" height="400" frameborder="0" allowfullscreen></iframe>
 
 ---
 *Tags: #SecondBrain #Obsidian #AIproductivity #ContextEngineering #Solopreneur*
