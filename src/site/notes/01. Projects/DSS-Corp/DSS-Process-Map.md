@@ -5,6 +5,8 @@
 
 # BẢN ĐỒ QUY TRÌNH CHUYỂN ĐỔI SỐ — DSS
 
+> ⬅️ [[01. Projects/DSS-Corp/Trang Chủ\|Quay lại Trang chủ Dự án DSS-Corp]]
+
 > **Mục đích:** Liệt kê tất cả quy trình công việc đang vận hành trong 6 phòng ban, chỉ rõ cách làm hiện tại, vấn đề đang gặp, và giải pháp số hóa trên Lark Suite.
 > **Đây là bản đồ quy trình để cả công ty cùng hình dung: "Chuyển đổi số nghĩa là chuyển đổi CÁI GÌ".
 
@@ -428,6 +430,6 @@ graph LR
 ---
 
 ## Links
-- [[01. Projects/DSS-Corp/index\|01. Projects/DSS-Corp/index]]
+- [[01. Projects/DSS-Corp/Trang Chủ\|01. Projects/DSS-Corp/Trang Chủ]]
 - [[01. Projects/DSS-Corp/DSS-To-Trinh-Trien-Khai\|01. Projects/DSS-Corp/DSS-To-Trinh-Trien-Khai]]
 - [[01. Projects/DSS-Corp/Stakeholder-Map\|01. Projects/DSS-Corp/Stakeholder-Map]]

@@ -5,6 +5,8 @@
 
 # TỜ TRÌNH ĐỀ XUẤT KẾ HOẠCH CHUYỂN ĐỔI SỐ DSS
 
+> ⬅️ [[01. Projects/DSS-Corp/Trang Chủ\|Quay lại Trang chủ Dự án DSS-Corp]]
+
 **Kính gửi:** Ban Giám Đốc – Sếp Tiền  
 **Người đề xuất:** Tuyết Chinh  
 **Ngày báo cáo:** ___/___/2026  
